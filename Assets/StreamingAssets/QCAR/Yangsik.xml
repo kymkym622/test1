@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="a9_Tomato" size="10.000000 1.793313" />
+    <ImageTarget name="1_Lobster" size="10.000000 1.534772" />
+    <ImageTarget name="9_RasberrySherbet" size="10.000000 1.269297" />
+    <ImageTarget name="a8_DRY_STEAK" size="10.000000 1.406250" />
+    <ImageTarget name="a7_Wagyu_Ribeye" size="10.000000 1.484375" />
+    <ImageTarget name="a6_Wagyu_mignon" size="10.000000 1.621094" />
+    <ImageTarget name="a5_Beef_pasta" size="10.000000 1.308594" />
+    <ImageTarget name="a4_sea_Pasta" size="10.000000 1.406250" />
+    <ImageTarget name="a3_Carrot" size="10.000000 1.777344" />
+    <ImageTarget name="a2_tareuteu" size="10.000000 1.308594" />
+    <ImageTarget name="a1_Mango_Soreube" size="10.000000 1.562500" />
+    <ImageTarget name="7_Black_Bass" size="10.000000 1.281250" />
+    <ImageTarget name="a0_Choco_Sherbet" size="10.000000 1.523438" />
+    <ImageTarget name="8_Monkfish" size="10.000000 2.343750" />
+    <ImageTarget name="6_Chowder" size="10.000000 1.562500" />
+    <ImageTarget name="5_MUSHROOM_SOUP" size="10.000000 1.308594" />
+    <ImageTarget name="4_SALMON_SALAD" size="10.000000 1.425781" />
+    <ImageTarget name="3_CAESAR_SALAD" size="10.000000 1.406250" />
+    <ImageTarget name="2_Bresaola" size="10.000000 2.207031" />
+  </Tracking>
+</QCARConfig>

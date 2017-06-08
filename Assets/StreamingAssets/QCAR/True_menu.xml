@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="7_jungol2" size="10.000000 4.960835" />
+    <ImageTarget name="6_beanzzigae" size="10.000000 2.470076" />
+    <ImageTarget name="5_gimchizzigae" size="10.000000 2.675439" />
+    <ImageTarget name="4_bibimbab" size="10.000000 3.929147" />
+    <ImageTarget name="3_yugh" size="10.000000 5.950000" />
+    <ImageTarget name="2_bulgogi" size="10.000000 3.251445" />
+    <ImageTarget name="1_jungol" size="10.000000 5.529412" />
+  </Tracking>
+</QCARConfig>

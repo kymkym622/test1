@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="haimul3" size="2.000000 0.696774" />
+    <ImageTarget name="haimul2" size="2.000000 0.575342" />
+    <ImageTarget name="haimul1" size="2.000000 0.657143" />
+  </Tracking>
+</QCARConfig>

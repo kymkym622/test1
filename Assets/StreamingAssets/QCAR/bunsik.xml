@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="a8_ddeogbugi" size="10.000000 3.955555" />
+    <ImageTarget name="b1_yulmuguksu" size="10.000000 2.929688" />
+    <ImageTarget name="a8_ddeogmandu" size="10.000000 2.773438" />
+    <ImageTarget name="a6_janchi" size="10.000000 2.773438" />
+    <ImageTarget name="a3_sujeby" size="10.000000 2.281250" />
+    <ImageTarget name="a4_kalguksu" size="10.000000 2.421875" />
+    <ImageTarget name="a2_hamuljjambong" size="10.000000 1.894531" />
+    <ImageTarget name="7_gyeranramyun" size="10.000000 3.027344" />
+    <ImageTarget name="3_chamchigimbab" size="10.000000 2.832031" />
+    <ImageTarget name="1_wonjogimbab" size="10.000000 2.714844" />
+  </Tracking>
+</QCARConfig>
